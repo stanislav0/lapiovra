@@ -4,7 +4,7 @@
   <title><![CDATA[Stackful.io VPS]]></title>
   <link href="http://stanislav0.github.com/lapiovra/atom.xml" rel="self"/>
   <link href="http://stanislav0.github.com/lapiovra/"/>
-  <updated>2012-06-07T16:44:38+03:00</updated>
+  <updated>2012-06-07T18:27:55+03:00</updated>
   <id>http://stanislav0.github.com/lapiovra/</id>
   <author>
     <name><![CDATA[Stackful.io]]></name>
@@ -12,5 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Why VPS is better than the cloud ]]></title>
+    <link href="http://stanislav0.github.com/lapiovra/blog/2012/06/07/why-vps-is-better-than-the-cloud/"/>
+    <updated>2012-06-07T18:14:00+03:00</updated>
+    <id>http://stanislav0.github.com/lapiovra/blog/2012/06/07/why-vps-is-better-than-the-cloud</id>
+    <content type="html"><![CDATA[<p>Here you can turn comments off and or categories to your post. If you are working on a multi-author blog, you can add author: Your Name to the metadata for proper attribution on a post. If you are working on a draft, you can add published: false to prevent it from being posted when you generate your blog.</p>
+
+<hr />
+
+<p>Here you can turn comments off and or categories to your post. If you are working on a multi-author blog, you can add author: Your Name to the metadata for proper attribution on a post. If you are working on a draft, you can add published: false to prevent it from being posted when you generate your blog.</p>
+
+<hr />
+
+<p><a href="http://stackful.io">stackful.io</a></p>
+]]></content>
+  </entry>
   
 </feed>
