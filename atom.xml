@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Stackful.io VPS]]></title>
+  <title><![CDATA[Stackful.io]]></title>
   <link href="http://stanislav0.github.com/lapiovra/atom.xml" rel="self"/>
   <link href="http://stanislav0.github.com/lapiovra/"/>
-  <updated>2012-06-07T19:12:11+03:00</updated>
+  <updated>2012-06-07T19:31:28+03:00</updated>
   <id>http://stanislav0.github.com/lapiovra/</id>
   <author>
     <name><![CDATA[Stackful.io]]></name>
