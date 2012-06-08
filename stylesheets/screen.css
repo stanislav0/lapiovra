@@ -1,5 +1,5 @@
 /*
-Syntax error: Invalid CSS after "  font-size:": expected pseudoclass or pseudoelement, was "1.1em;"
+Syntax error: Invalid CSS after "  background:": expected pseudoclass or pseudoelement, was " darkorange;"
         on line 13 of /home/stanislav/heroku/octopress/sass/custom/_styles.scss
         from line 10 of /home/stanislav/heroku/octopress/sass/screen.scss
 
@@ -71,4 +71,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Invalid CSS after \"  font-size:\": expected pseudoclass or pseudoelement, was \"1.1em;\"\A         on line 13 of /home/stanislav/heroku/octopress/sass/custom/_styles.scss\A         from line 10 of /home/stanislav/heroku/octopress/sass/screen.scss"; }
+  content: "Syntax error: Invalid CSS after \"  background:\": expected pseudoclass or pseudoelement, was \" darkorange;\"\A         on line 13 of /home/stanislav/heroku/octopress/sass/custom/_styles.scss\A         from line 10 of /home/stanislav/heroku/octopress/sass/screen.scss"; }
